@@ -1,6 +1,6 @@
 [![octoplug.xyz](https://github.com/JsnMertens/octoplug.xyz/blob/master/logo_octoplug.png)](https://octoplug.xyz/)
 ### Plugins for Maya and Arnold
-*Designed by Julien Silvestre and myself*
+*Designed by Julien Silvestre and I*
 
 ---
 
